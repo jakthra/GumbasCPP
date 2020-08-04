@@ -1,3 +1,0 @@
-C:/Users/jakob/Git/Gumbas/pytorch_cpp_app/CMakeFiles/example-app.dir
-C:/Users/jakob/Git/Gumbas/pytorch_cpp_app/CMakeFiles/ALL_BUILD.dir
-C:/Users/jakob/Git/Gumbas/pytorch_cpp_app/CMakeFiles/ZERO_CHECK.dir
