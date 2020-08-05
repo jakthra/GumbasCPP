@@ -1,0 +1,4 @@
+C:/Users/jakob/Git/GumbasCPP/GumbasCPP/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/jakob/Git/GumbasCPP/GumbasCPP/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/jakob/Git/GumbasCPP/GumbasCPP/build/src/CMakeFiles/GumbasCPP.dir
+C:/Users/jakob/Git/GumbasCPP/GumbasCPP/build/src/CMakeFiles/main.dir

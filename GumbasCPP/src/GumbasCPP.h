@@ -9,5 +9,5 @@
 #include <memory>
 
 
-int loadModel();
+torch::jit::script::Module loadModel();
 // TODO: Reference additional headers your program requires here.
