@@ -10,4 +10,5 @@
 
 
 torch::jit::script::Module loadModel();
+std::vector<torch::jit::IValue> createTestInput(int batchSize, int dim);
 // TODO: Reference additional headers your program requires here.

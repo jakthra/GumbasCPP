@@ -23,3 +23,13 @@ torch::jit::script::Module loadModel() {
 	//std::cout << tensor << std::endl;
 }
 
+
+std::vector<torch::jit::IValue> createTestInput(int batchSize, int dim) {
+	//TODO: Load test inputs from file
+	std::vector<torch::jit::IValue> inputs;
+    inputs.push_back(torch::ones({batchSize, dim}));
+	return inputs;
+}
+
+// TODO: load test outputs from file
+// TOTO: Create test method for testing forward pass of model
