@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/jakob/Git/GumbasCPP/GumbasCPP/src
+# Install script for directory: D:/Git/GumbasCPP/GumbasCPP/src
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

@@ -1,7 +1,7 @@
 add_library (GumbasCPP GumbasCPP.cpp GumbasCPP.h)
 add_executable (main "main.cpp")
 target_link_libraries (main GumbasCPP)
-
+set(CMAKE_SUPPRESS_REGENERATION true)
 
 
 

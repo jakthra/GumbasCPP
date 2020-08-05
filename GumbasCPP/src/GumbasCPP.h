@@ -7,8 +7,10 @@
 #include <torch/script.h>
 #include <iostream>
 #include <memory>
+#include <fstream>
+using namespace std;
 
 
 torch::jit::script::Module loadModel();
-std::vector<torch::jit::IValue> createTestInput(int batchSize, int dim);
+vector<torch::jit::IValue> createTestInput(int batchSize, int dim);
 // TODO: Reference additional headers your program requires here.
