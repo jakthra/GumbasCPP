@@ -2,12 +2,9 @@
 //
 
 #include "GumbasCPP.h"
-#include <torch/torch.h>
-#include <torch/script.h>
-#include <iostream>
-#include <memory>
 
-int main() {
+
+int loadModel() {
 
 	torch::jit::script::Module module;
 	try {

@@ -320,8 +320,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="C:\Users\jakob\Git\GumbasCPP\GumbasCPP\src\GumbasCPP.cpp" />
-    <ClInclude Include="C:\Users\jakob\Git\GumbasCPP\GumbasCPP\src\GumbasCPP.h" />
+    <ClCompile Include="C:\Users\jakob\Git\GumbasCPP\GumbasCPP\src\main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="C:\Users\jakob\Git\GumbasCPP\GumbasCPP\ZERO_CHECK.vcxproj">

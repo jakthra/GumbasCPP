@@ -1,5 +1,5 @@
 add_library (GumbasCPP GumbasCPP.cpp GumbasCPP.h)
-add_executable (main "GumbasCPP.cpp" "GumbasCPP.h")
+add_executable (main "main.cpp")
 target_link_libraries (main GumbasCPP)
 
 
